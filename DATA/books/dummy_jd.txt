@@ -1,0 +1,47 @@
+Job Title: Junior Python Developer  
+Company: NexaSoft Technologies Pvt. Ltd.  
+Location: Mumbai, India (On-site)  
+Job Type: Full-Time | Entry-Level  
+Salary: ₹25,000 – ₹35,000 per month  
+
+About the Company:
+NexaSoft is a fast-growing software development firm specializing in web applications, automation, and AI-driven solutions. We work with startups and SMEs to build scalable digital products using modern tech stacks.
+
+Job Description:
+We are looking for a passionate **Junior Python Developer** to join our backend team. The ideal candidate will have a strong foundation in Python programming and a basic understanding of web development using Flask or Django.
+
+You will work closely with our senior developers to build APIs, integrate with databases, and contribute to backend services powering our client applications.
+
+Key Responsibilities:
+- Write clean, efficient, and maintainable Python code  
+- Develop and maintain RESTful APIs using Flask or Django  
+- Work with SQLite/MySQL/PostgreSQL databases  
+- Collaborate with frontend developers and designers  
+- Use Git for version control and follow code review practices  
+- Write unit tests and debug issues  
+- Participate in daily stand-ups and sprint planning meetings
+
+Required Skills:
+- Proficiency in Python (1+ year academic or project experience)  
+- Experience with Flask or Django (basic projects or internships)  
+- Knowledge of SQL and database design  
+- Familiarity with REST API principles  
+- Basic understanding of HTML, CSS, and JavaScript  
+- Comfort with Linux/Ubuntu command line  
+- Version control using Git and GitHub  
+
+Good to Have:
+- Knowledge of JWT authentication  
+- Experience using Postman for API testing  
+- Exposure to GenAI tools or LangChain (bonus)  
+- Awareness of software development life cycle (SDLC)  
+
+Educational Qualifications:
+- Bachelor’s degree in Computer Science, IT, or related field (B.Sc./BCA/BE)  
+- Final-year students or recent graduates can apply  
+
+Selection Process:
+1. Resume Shortlisting  
+2. Online Technical Test (Python + Logic)  
+3. Technical Interview (Projects + API knowledge)  
+4. HR Round

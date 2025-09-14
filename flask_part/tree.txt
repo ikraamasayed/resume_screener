@@ -1,0 +1,11 @@
+.
+├── flask_part
+│   ├── app.py
+│   ├── dummy_jd.txt
+│   ├── dummy_resume.txt
+│   ├── templates
+│   │   └── index.html
+│   └── test.py
+└── tree.txt
+
+3 directories, 6 files
